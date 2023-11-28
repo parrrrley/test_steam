@@ -1,0 +1,104 @@
+altair==5.1.2
+attrs==23.1.0
+awscli @ file:///home/conda/feedstock_root/build_artifacts/awscli_1698707958004/work
+beautifulsoup4==4.12.2
+bleach==6.1.0
+blinker==1.7.0
+botocore @ file:///home/conda/feedstock_root/build_artifacts/botocore_1698702650731/work
+Brotli @ file:///home/conda/feedstock_root/build_artifacts/brotli-split_1695989787169/work
+cachetools==5.3.2
+certifi==2023.7.22
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1696001742886/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698005359935/work
+click @ file:///home/conda/feedstock_root/build_artifacts/click_1692311806742/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+conda==4.11.0
+conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1666837452491/work
+contourpy==1.2.0
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography-split_1672672393437/work
+cycler==0.12.1
+defusedxml==0.7.1
+docutils @ file:///home/conda/feedstock_root/build_artifacts/docutils_1610127764788/work
+dparse @ file:///home/conda/feedstock_root/build_artifacts/dparse_1687803182432/work
+et-xmlfile==1.1.0
+fastjsonschema==2.19.0
+fonttools==4.45.0
+gitdb==4.0.11
+GitPython==3.1.40
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+importlib-metadata==6.8.0
+importlib-resources==6.1.1
+Jinja2==3.1.2
+jmespath @ file:///home/conda/feedstock_root/build_artifacts/jmespath_1655568249366/work
+joblib==1.3.2
+jsonschema==4.20.0
+jsonschema-specifications==2023.11.1
+jupyter_client==8.6.0
+jupyter_core==5.5.0
+jupyterlab_pygments==0.3.0
+kiwisolver==1.4.5
+markdown-it-py==3.0.0
+MarkupSafe==2.1.3
+matplotlib==3.8.2
+mdurl==0.1.2
+mistune==3.0.2
+nbclient==0.9.0
+nbconvert==7.11.0
+nbformat==5.9.2
+numpy==1.26.2
+openpyxl==3.1.2
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandas==2.1.3
+pandocfilters==1.5.0
+Pillow==10.1.0
+platformdirs==4.0.0
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1693086607691/work
+protobuf==4.25.1
+pyarrow==14.0.1
+pyasn1 @ file:///home/conda/feedstock_root/build_artifacts/pyasn1_1694615621498/work
+pycosat @ file:///home/conda/feedstock_root/build_artifacts/pycosat_1696355771368/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pydeck==0.8.1b0
+Pygments==2.17.2
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1685514481738/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1690737849915/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz==2023.3.post1
+PyYAML @ file:///home/conda/feedstock_root/build_artifacts/pyyaml_1695373447169/work
+pyzmq==25.1.1
+referencing==0.31.0
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+rich==13.7.0
+rpds-py==0.13.1
+rsa @ file:///home/conda/feedstock_root/build_artifacts/rsa_1614171254180/work
+ruamel-yaml-conda @ file:///home/conda/feedstock_root/build_artifacts/ruamel_yaml_1695546226533/work
+ruamel.yaml @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml_1698138655362/work
+ruamel.yaml.clib @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml.clib_1695996823774/work
+s3transfer @ file:///home/conda/feedstock_root/build_artifacts/s3transfer_1695771036848/work
+safety @ file:///home/conda/feedstock_root/build_artifacts/safety_1670581827159/work
+scikit-learn==1.3.2
+scipy==1.11.4
+seaborn==0.13.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+smmap==5.0.1
+soupsieve==2.5
+streamlit==1.28.2
+supervisor==4.2.5
+tenacity==8.2.3
+threadpoolctl==3.2.0
+tinycss2==1.2.1
+toml==0.10.2
+tomli @ file:///home/conda/feedstock_root/build_artifacts/tomli_1644342247877/work
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
+tornado==6.3.3
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1691671248568/work
+traitlets==5.13.0
+typing_extensions==4.8.0
+tzdata==2023.3
+tzlocal==5.2
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1697813446430/work
+validators==0.22.0
+watchdog==3.0.0
+webencodings==0.5.1
+zipp==3.17.0
